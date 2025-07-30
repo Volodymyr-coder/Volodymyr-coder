@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[Volodymyr-codergit])
+![Profile views](https://gpvc.arturio.dev/[Volodymyr-coder])
 
 ![Header](./assets/github-header-image.png)
 
