@@ -1,9 +1,8 @@
-## Hi there 👋 I am Volodymyr
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
 ![Header](./assets/github-header-image.png)
 
 <!--
-**Volodymyr-coder/Volodymyr-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
