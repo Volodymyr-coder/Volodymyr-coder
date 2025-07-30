@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Volodymyr
 
-![Header](./github-header-image.png)
+![Header](./assets/github-header-image.png)
 
 <!--
 **Volodymyr-coder/Volodymyr-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
