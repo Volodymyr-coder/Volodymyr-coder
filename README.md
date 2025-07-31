@@ -29,6 +29,9 @@ Coding isn’t just about lines of code for me. It’s about solving problems, c
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
 
-- 🌱 I’m currently learning
-  ![Learning Vue](https://img.shields.io/badge/learning-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
-  ![Learning React Native](https://img.shields.io/badge/learning-React%20Native-61dafb?style=flat-square&logo=react&logoColor=black)
+- ### 🌱 I’m currently learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/learning-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/learning-React%20Native-61dafb?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+</p>
