@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[Volodymyr-coder])
+![Profile views](https://gpvc.arturio.dev/Volodymyr-coder)
 
 ![Header](./assets/github-header-image.png)
 
@@ -11,6 +11,8 @@ Coding isn’t just about lines of code for me. It’s about solving problems, c
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 ### 🛠 Backend & State Management
 
