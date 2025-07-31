@@ -4,18 +4,30 @@
 
 Coding isn’t just about lines of code for me. It’s about solving problems, creating experiences, and making things that matter. I’m the kind of person who sees coding as a tool to bring ideas to life, whether it’s optimizing a process or designing something that improves people’s day-to-day.
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=plastic)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=plastic)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic)
+## 🧩 Tech Stack
+
+### ⚛️ Frontend
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+
+### 🛠 Backend & State Management
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+
+### 🧰 Tools
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+### 🚀 Deployment & CI/CD
+
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
 
 <!--
 
