@@ -2,6 +2,12 @@
 
 Coding isn’t just about lines of code for me. It’s about solving problems, creating experiences, and making things that matter. I’m the kind of person who sees coding as a tool to bring ideas to life, whether it’s optimizing a process or designing something that improves people’s day-to-day.
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
 ## 🧩 Tech Stack
 
 ### ⚛️ Frontend
