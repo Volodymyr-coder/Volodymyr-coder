@@ -4,8 +4,6 @@ Coding isn’t just about lines of code for me. It’s about solving problems, c
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Volodymyr-coder&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodymyr-coder&layout=compact&theme=radical)
 
 ## 🧩 Tech Stack
