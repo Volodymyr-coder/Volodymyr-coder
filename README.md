@@ -41,3 +41,17 @@ Coding isn’t just about lines of code for me. It’s about solving problems, c
   <img src="https://img.shields.io/badge/learning-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/learning-React%20Native-61dafb?style=flat-square&logo=react&logoColor=black" alt="React Native" />
 </p>
+
+## 📁 Projects
+
+### Job Search Platform
+
+[🔗 GitHub Repo](https://github.com/Volodymyr-coder/c51-final-project-group-B) | [🌐 Demo](https://c51b.hyf.dev)
+
+Technologies: React, ,Hooks, Routers, JS, Node.js
+
+### Cinema
+
+[🔗 GitHub Repo](https://github.com/YOUR_USERNAME/project-one) | [🌐 Demo](https://volodymyr-cinema.netlify.app/)
+
+Technologies: React, ,Hooks, Routers, HTML, CSS.
